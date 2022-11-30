@@ -346,19 +346,3 @@ a:hover { text-decoration: underline; }
     margin: 5px auto 0;
   }
 }
-.error404titulo {
-  font-size: 120px;
-  text-align: center;
-  color: #173962  !important;
-  font-weight: bold !important;
-  line-height: 0.8;
-  margin-top: 60px !important;
-}
-.error404texto {
-  font-size: 30px;
-  text-align: center;
-  color: #173962  !important;
-  font-weight: bold !important;
-  line-height: 1;
-  margin-bottom: 160px !important;
-}
