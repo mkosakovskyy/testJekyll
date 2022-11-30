@@ -347,7 +347,7 @@ a:hover { text-decoration: underline; }
   }
 
   .project-tagline {
-      margin-top: 0;
+      margin-top: 0 !important;
     }
 }
 .error404titulo {
