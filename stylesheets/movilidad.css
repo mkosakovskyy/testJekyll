@@ -345,4 +345,8 @@ a:hover { text-decoration: underline; }
   .listing .container-title {
     margin: 5px auto 0;
   }
+
+  .project-tagline {
+    margin-top: 0;
+  }
 }
