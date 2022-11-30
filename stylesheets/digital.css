@@ -202,8 +202,10 @@ a:hover { text-decoration: underline; }
 }
 .site-footer-somos-hiberus {
   text-align: right;
-  width: 100%;
   grid-area: f3;
+}
+.img-site-footer-somos-hiberus {
+  width: 150px;
 }
 .site-footer-hiberus {
   text-align: right;
