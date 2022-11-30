@@ -1,6 +1,6 @@
 ---
 title: Digital - Mobile
-layout: digital
+layout: mobile
 filename: mobile
 --- 
 

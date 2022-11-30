@@ -1,6 +1,6 @@
 ---
 title: Digital - Desktop
-layout: digital
+layout: desktop
 filename: index
 --- 
 

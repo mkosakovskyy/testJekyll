@@ -1,6 +1,6 @@
 ---
 title: Movilidad - App
-layout: movilidad
+layout: app
 filename: app
 --- 
 
