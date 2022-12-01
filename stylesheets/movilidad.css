@@ -202,8 +202,10 @@ a:hover { text-decoration: underline; }
 }
 .site-footer-somos-hiberus {
   text-align: right;
-  width: 100%;
   grid-area: f3;
+}
+.img-site-footer-somos-hiberus {
+  width: 150px;
 }
 .site-footer-hiberus {
   text-align: right;
@@ -236,6 +238,9 @@ a:hover { text-decoration: underline; }
       "f1 f3"
       "f2 f4"
   }
+  .img-site-footer-somos-hiberus {
+      width: 120px;
+    }
 }
 @media (max-width: 52em) {
   .wrap-footer {
@@ -253,6 +258,10 @@ a:hover { text-decoration: underline; }
   }
   .site-footer-hiberus {
     text-align: left;
+    line-height: 1.2;
+  }
+  .img-site-footer-somos-hiberus {
+    width: 120px;
   }
 }
 .page-title {
